@@ -1,4 +1,6 @@
 📥 MULTIMEDIA DOWNLOADER
+
+
 A modern, powerful, and multilingual desktop application for downloading videos and audio from the web.
 
 MULTIMEDIA DOWNLOADER is a sleek, cross-platform tool built with Python, CustomTkinter, and yt-dlp. It provides a seamless experience for extracting high-quality MP4 videos and MP3 audio with a modern Dark Mode interface.
@@ -71,5 +73,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 📧 Contact
 HoangLong - hoanglonggg79 [at] gmail.com
 Project Link: https://github.com/hoanglonggg79/Multimedia-Downloader
+
 
 🎯 Disclaimer: This tool is for personal use only. Please respect the Terms of Service of the platforms you download from.
