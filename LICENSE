@@ -19,3 +19,24 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+THIRD-PARTY COMPONENTS
+
+This software includes the following third-party components with their respective licenses:
+
+1. yt-dlp (The Unlicense)
+   Repository: https://github.com/yt-dlp/yt-dlp
+   
+2. FFmpeg (LGPL v2.1+ / GPL v2+)
+   Website: https://ffmpeg.org/
+   
+3. CustomTkinter (MIT License)
+   Copyright (c) 2021 Tom Schimansky
+   Repository: https://github.com/TomSchimansky/CustomTkinter
+   
+4. Pygame (LGPL)
+   Website: https://www.pygame.org/
+
+For complete license information of third-party components, please refer to CREDITS.md

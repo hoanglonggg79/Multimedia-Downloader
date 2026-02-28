@@ -1,0 +1,21 @@
+# MULTIMEDIA DOWNLOADER - Python Dependencies
+# Install all with: pip install -r requirements.txt
+
+# Core UI Framework
+customtkinter>=5.2.0
+
+# Audio Playback
+pygame>=2.5.0
+
+# Standard library (included with Python, listed for reference)
+# - subprocess
+# - threading
+# - tkinter
+# - json
+# - os
+# - pathlib
+# - re
+
+# External Tools (not pip installable - see README.md for installation)
+# - yt-dlp: https://github.com/yt-dlp/yt-dlp/releases
+# - FFmpeg: https://ffmpeg.org/download.html
