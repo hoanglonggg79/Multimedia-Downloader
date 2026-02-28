@@ -40,7 +40,7 @@ English, Vietnamese, Japanese, Korean, Chinese, French, German, Italian, Russian
 Ensure you have Python 3.8+ installed. You will also need:
 
 
-FFmpeg: Required for media conversion.
+FFmpeg: Required for media conversion. 
 yt-dlp: The core download engine.
 (The app is designed to check for these tools in the /update folder automatically).
 
@@ -77,10 +77,10 @@ Click START DOWNLOAD.
 This project relies on several amazing open-source technologies:
 
 
-yt-dlp - Core downloader.
-FFmpeg - Media processing.
-CustomTkinter - UI Framework.
-Pygame - Audio playback.
+yt-dlp - Core downloader. /\
+FFmpeg - Media processing. /\
+CustomTkinter - UI Framework. /\
+Pygame - Audio playback. /\
 
 
 For a full list of third-party licenses and libraries, see CREDITS.md.
@@ -98,4 +98,5 @@ Project Link: https://github.com/hoanglonggg79/Multimedia-Downloader
 
 
 🎯 Disclaimer: This tool is for personal use only. Please respect the Terms of Service of the platforms you download from.
+
 
