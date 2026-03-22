@@ -1,102 +1,106 @@
-📥 MULTIMEDIA DOWNLOADER
+# 📥 MULTIMEDIA DOWNLOADER
 
+![License](https://img.shields.io/github/license/hoanglonggg79/Multimedia-Downloader?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)
+![UI](https://img.shields.io/badge/UI-CustomTkinter-orange?style=flat-square)
 
-A modern, powerful, and multilingual desktop application for downloading videos and audio from the web.
+A modern, powerful, and multilingual desktop application for downloading videos and audio from the web. Built with **Python**, **CustomTkinter**, and **yt-dlp**.
 
-MULTIMEDIA DOWNLOADER is a sleek, cross-platform tool built with Python, CustomTkinter, and yt-dlp. It provides a seamless experience for extracting high-quality MP4 videos and MP3 audio with a modern Dark Mode interface.
+---
 
+## ✨ Key Features
 
+- 🎬 **High-Quality Downloads:** Get videos up to 1080p (MP4) or extract high-fidelity audio (MP3).
+- 📂 **Playlist Support:** Smart detection and automatic downloading of entire playlists.
+- 🎨 **Modern UI:** A sleek, user-friendly Dark Mode interface.
+- 🌍 **Global Reach:** Fully localized in **14+ languages** (English, Vietnamese, Hindi, Arabic, Japanese, etc.).
+- 🎵 **Audio Experience:** Integrated background Lofi music for a relaxing workflow.
+- 🛠️ **File Management:** Built-in manager to view, open, or delete your downloads instantly.
+- 🔄 **Auto-Update:** Keeps `yt-dlp` and `FFmpeg` core engines up to date automatically.
 
-✨ Key Features
-High-Quality Downloads: Download videos in up to 1080p (MP4) or extract high-fidelity audio (MP3).
+---
 
+## 🌍 Supported Languages
 
-Playlist Support: Detects and downloads entire playlists automatically.
+The app supports dynamic switching between:
 
+`English`, `Tiếng Việt`, `日本語`, `한국어`, `中文`, `Français`, `Deutsch`, `Italiano`, `Русский`, `Español`, `Português`, `Indonesian`, and more.
 
-Modern UI: Beautiful Dark Mode interface powered by CustomTkinter.
+---
 
+## 🛠️ Installation
 
-Global Reach: Fully localized in 14+ languages, including English, Vietnamese, Hindi, Arabic (RTL support), Japanese, and more.
+### 1. Prerequisites
 
+- **Python 3.8+**
+- **FFmpeg** (required for media conversion)
+- **yt-dlp** (core download engine)
 
-Audio Experience: Relaxing background Lofi music for a stress-free experience.
+> 💡 The app automatically checks/updates these tools in the `/update` folder.
 
+---
 
-File Management: Built-in manager to view, open, and delete your downloaded files.
+### 2. Setup
 
-
-Auto-Update System: Integrated system to keep the core engines (yt-dlp & FFmpeg) up to date.
-
-
-
-🌍 Supported Languages
-The app allows users to switch between:
-English, Vietnamese, Japanese, Korean, Chinese, French, German, Italian, Russian, Spanish, Portuguese, and Indonesian.
-
-
-🛠️ Installation
-1. Prerequisites
-Ensure you have Python 3.8+ installed. You will also need:
-
-
-FFmpeg: Required for media conversion. 
-yt-dlp: The core download engine.
-(The app is designed to check for these tools in the /update folder automatically).
-
-
-2. Clone the Repository
+# Clone the repository
 git clone https://github.com/hoanglonggg79/Multimedia-Downloader.git
+
+# Navigate to the directory
 cd Multimedia-Downloader
 
-
-3. Install Dependencies
+# Install dependencies
 pip install -r requirements.txt
 
+---
 
+## 🚀 How to Use
 
-🚀 How to Use
-Run the application: python main.py.
+# 1.Launch
+python main.py
 
+# 2.Input
+Paste your video or playlist URL into the app.
 
-Paste your video link into the URL field.
+# 3.Select
+Choose:
+Video (MP4)
+Audio (MP3)
 
+# 4.Customize (Optional)
+Enter a custom filename
+⚠️ Leave blank if downloading playlists
 
-Choose Video (MP4) or Audio (MP3) mode.
+# 5.Download
+Click START DOWNLOAD and enjoy 🎉
 
+---
 
-(Optional) Enter a custom filename or leave blank for the original title.
-Do not name the file when downloading the playlist.
+## 🎖️ Credits & Attributions
 
+# This project is powered by amazing open-source technologies:
 
-Click START DOWNLOAD.
+Library	             Purpose
+yt-dlp	      | Core downloading engine
+FFmpeg	      | Media processing & conversion
+CustomTkinter	| Modern UI framework
+Pygame	      | Audio playback (Lofi background)
 
+---
 
+## ⚖️ License & Disclaimer
+License: **MIT License**
+See LICENSE for more details.
 
-🎖️ Credits & Attributions
-This project relies on several amazing open-source technologies:
+# Disclaimer:
+This tool is for educational and personal use only.
+Please respect the Terms of Service of the platforms you download from.
+The developer is not responsible for any misuse of this software.
 
+---
 
-yt-dlp - Core downloader. /\
-FFmpeg - Media processing. /\
-CustomTkinter - UI Framework. /\
-Pygame - Audio playback. /\
+## 📧 Contact
 
+# Hoang Long
+📩 hoanglonggg79@gmail.com
 
-For a full list of third-party licenses and libraries, see CREDITS.md.
-
-
-
-⚖️ License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-📧 Contact
-HoangLong - hoanglonggg79 [at] gmail.com
-Project Link: https://github.com/hoanglonggg79/Multimedia-Downloader
-
-
-
-🎯 Disclaimer: This tool is for personal use only. Please respect the Terms of Service of the platforms you download from.
-
-
+# 🔗 Project: https://github.com/hoanglonggg79/Multimedia-Downloader
