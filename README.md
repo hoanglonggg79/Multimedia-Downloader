@@ -79,11 +79,11 @@ Click START DOWNLOAD and enjoy 🎉
 
 ### This project is powered by amazing open-source technologies:
 
-Library	             Purpose
-yt-dlp	      | Core downloading engine
-FFmpeg	      | Media processing & conversion
-CustomTkinter	| Modern UI framework
-Pygame	      | Audio playback (Lofi background)
+- Library
+- yt-dlp        > Core downloading engine
+- FFmpeg        > Media processing & conversion
+- CustomTkinter > Modern UI framework
+- Pygame        > Audio playback (Lofi background)
 
 ---
 
