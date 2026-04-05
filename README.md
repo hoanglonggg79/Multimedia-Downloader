@@ -40,44 +40,44 @@ The app supports dynamic switching between:
 
 ---
 
-### 2. Setup
+## 2. Setup
 
-# Clone the repository
+### Clone the repository
 git clone https://github.com/hoanglonggg79/Multimedia-Downloader.git
 
-# Navigate to the directory
+### Navigate to the directory
 cd Multimedia-Downloader
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 
 ---
 
 ## 🚀 How to Use
 
-# 1.Launch
+### 1.Launch
 python main.py
 
-# 2.Input
+### 2.Input
 Paste your video or playlist URL into the app.
 
-# 3.Select
+### 3.Select
 Choose:
 Video (MP4)
 Audio (MP3)
 
-# 4.Customize (Optional)
+### 4.Customize (Optional)
 Enter a custom filename
 ⚠️ Leave blank if downloading playlists
 
-# 5.Download
+### 5.Download
 Click START DOWNLOAD and enjoy 🎉
 
 ---
 
 ## 🎖️ Credits & Attributions
 
-# This project is powered by amazing open-source technologies:
+### This project is powered by amazing open-source technologies:
 
 Library	             Purpose
 yt-dlp	      | Core downloading engine
@@ -91,7 +91,7 @@ Pygame	      | Audio playback (Lofi background)
 License: **MIT License**
 See LICENSE for more details.
 
-# Disclaimer:
+### Disclaimer:
 This tool is for educational and personal use only.
 Please respect the Terms of Service of the platforms you download from.
 The developer is not responsible for any misuse of this software.
@@ -100,7 +100,7 @@ The developer is not responsible for any misuse of this software.
 
 ## 📧 Contact
 
-# Hoang Long
+### Hoang Long
 📩 hoanglonggg79@gmail.com
 
-# 🔗 Project: https://github.com/hoanglonggg79/Multimedia-Downloader
+### 🔗 Project: https://github.com/hoanglonggg79/Multimedia-Downloader
