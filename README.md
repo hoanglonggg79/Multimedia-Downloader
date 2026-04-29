@@ -13,7 +13,7 @@ A modern, powerful, and multilingual desktop application for downloading videos 
 - 🎬 **High-Quality Downloads:** Get videos up to 1080p (MP4) or extract high-fidelity audio (MP3).
 - 📂 **Playlist Support:** Smart detection and automatic downloading of entire playlists.
 - 🎨 **Modern UI:** A sleek, user-friendly Dark Mode interface.
-- 🌍 **Global Reach:** Fully localized in **14+ languages** (English, Vietnamese, Hindi, Arabic, Japanese, etc.).
+- 🌍 **Global Reach:** Fully localized in **12+ languages** (English, Vietnamese, Français, Japanese, etc.).
 - 🎵 **Audio Experience:** Integrated background Lofi music for a relaxing workflow.
 - 🛠️ **File Management:** Built-in manager to view, open, or delete your downloads instantly.
 - 🔄 **Auto-Update:** Keeps `yt-dlp` and `FFmpeg` core engines up to date automatically.
